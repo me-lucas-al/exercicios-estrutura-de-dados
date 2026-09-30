@@ -1,11 +1,11 @@
 void main() {
-    testarFila();
+    // testarFila();
     IO.println();
-    testarFilaCircular();
+    // testarFilaCircular();
     IO.println();
-    testarNo();
+    // testarNo();
     IO.println();
-    testarInserirOrdenado();
+    // testarInserirOrdenado();
 }
 
 void testarFila() {
